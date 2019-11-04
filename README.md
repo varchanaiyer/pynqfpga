@@ -10,4 +10,9 @@ The project uses [overlays](https://pynq.readthedocs.io/en/v2.1/pynq_overlays.ht
 Use a 
   - Small Image of resolution 192 x 192
   - Bigger Image of resolution 803 X 1200
+  
+  
+You can notice the time taken for
+  -Single/Serial processing PS vs FPGA
+  -Multi- processing        PS vs FPGA 
  
