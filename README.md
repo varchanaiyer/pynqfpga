@@ -13,6 +13,6 @@ Use a
   
   
 You can notice the time taken for
-  -Single/Serial processing PS vs FPGA
-  -Multi- processing        PS vs FPGA 
+  - Single/Serial processing PS vs FPGA
+  - Multi- processing        PS vs FPGA 
  
