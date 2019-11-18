@@ -19,6 +19,7 @@ You can notice the time taken for
   
  For smaller image:
   - The processing file can be found [here](https://github.com/varchanaiyer/pynqfpga/blob/master/small-image-pynq-Copy1.ipynb)
+  
   For the larger image:
   - The processing file can be found [here](https://github.com/varchanaiyer/pynqfpga/blob/master/big-image%20(2).ipynb)
  
